@@ -1,0 +1,10 @@
+.vscode
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Output files
+*.txt
